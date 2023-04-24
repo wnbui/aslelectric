@@ -7,12 +7,12 @@
 ### Table of Contents
 
 - [Website] (#aslelectric)
-	- [Table of Contents] (#table-of-contents)
-	- [Description] (#description)
-		- [Technologies] (#technologies)
-	- [Collaborators] (#collaborators)
-	- [How To Use] (#how-to-use)
-	- [Features Included] (#features-included)
+	- [Table of Contents]
+	- [Description]
+		- [Technologies]
+	- [Collaborators]
+	- [How To Use]
+	- [Features Included]
 
 ---
 
