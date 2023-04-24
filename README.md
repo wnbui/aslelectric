@@ -9,7 +9,7 @@
 - [Website](#aslelectric)
 	- [Table of Contents](#table-of-contents)
 	- [Description](#description)
-		- [Technologies](#technologies)
+	- [Technologies](#technologies)
 	- [Collaborators](#collaborators)
 	- [How To Use](#how-to-use)
 	- [Features Included](#features-included)
@@ -18,7 +18,10 @@
 
 ## Description
 - An unofficial website for ASL Electric, a small local electrician company in Southern California
-#### Technologies
+
+---
+
+## Technologies
 
 - HMTL
 - CSS
