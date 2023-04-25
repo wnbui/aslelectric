@@ -48,7 +48,7 @@
 	- Button to leading to Yelp and social media icons in the footer 
 - A CSS file for styling the website
 - Using GitHub Pages to publish the website
-- An "an overview" section, in the form of a navigation menu (hamburger menu), linking to other sections with page anchors
+- A navigation menu (hamburger menu)
 - A mobile responsive site
 - More advance use of flexbox/grid CSS
 	- Flex box and grid use for the Services section that is also mobile responsive
