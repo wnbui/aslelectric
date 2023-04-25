@@ -1,7 +1,5 @@
 # aslelectric
 
-![Project Image] ()
-
 ---
 
 ### Table of Contents
