@@ -18,7 +18,7 @@
 
 ## Description
 - An unofficial website for ASL Electric, a small local electrician company in Southern California.
-- A submission for the Project Assessment round of interview for the 2023 Snap Engineering Acadmey.
+- A submission for the Project Assessment round of interview for the 2023 Snap Engineering Acadmy.
 
 ---
 
