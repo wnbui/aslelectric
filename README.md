@@ -45,10 +45,12 @@
 - A section for "About the Business"
 - A section with image and descriptions of three to four items/services offered by the business
 - At least one HTML button linking to a different website
+	- Button to leading to Yelp and social media icons in the footer 
 - A CSS file for styling the website
 - Using GitHub Pages to publish the website
-- An "an overview" section, in the form of a navigation menu, linking to other sections with page anchors
+- An "an overview" section, in the form of a navigation menu (hamburger menu), linking to other sections with page anchors
 - A mobile responsive site
 - More advance use of flexbox/grid CSS
+	- Flex box and grid use for the Services section that is also mobile responsive
 
 [Back To The Top](#aslelectric)
