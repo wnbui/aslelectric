@@ -4,13 +4,11 @@
 
 ### Table of Contents
 
-- [Website](#aslelectric)
-	- [Table of Contents](#table-of-contents)
-	- [Description](#description)
-	- [Technologies](#technologies)
-	- [Collaborators](#collaborators)
-	- [How To Use](#how-to-use)
-	- [Features Included](#features-included)
+- [Description](#description)
+- [Technologies](#technologies)
+- [Collaborators](#collaborators)
+- [How To Use](#how-to-use)
+- [Features Included](#features-included)
 
 ---
 
